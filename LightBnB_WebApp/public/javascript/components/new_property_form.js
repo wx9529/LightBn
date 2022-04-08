@@ -1,7 +1,4 @@
 $(() => {
-
-  
-
   const $newPropertyForm = $(`
   <form action="/api/properties" method="post" id="new-property-form" class="new-property-form">
       <div class="new-property-form__field-wrapper">
